@@ -18,7 +18,7 @@ A portable, educational game built for the **Arduboy** hand-held console. This s
 
 ## 🚀 How to Run the Code
 1. Download the source code file from this repository.
-2. Open the [Arduboy Web Editor](https://arduboy.com) or Arduino IDE.
+2. Open the [Arduboy Web Editor](https://cloud.arduboy.com/) or Arduino IDE.
 3. Import or open the project file.
 4. Upload it to your physical Arduboy device or run it directly in an online emulator!
 
