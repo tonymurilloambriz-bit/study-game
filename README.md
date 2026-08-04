@@ -1,5 +1,6 @@
 # study-game
 This was made in stardance, so this game is a game for the fx-c arduboy to study on the go.
+This project was most made by me I only used AI fro debugging.
 # 🎒 Study on the Go 🚗
 
 A portable, educational game built for the **Arduboy** hand-held console. This software was created as a project for Hack Club Stardance!
