@@ -1,0 +1,24 @@
+// FX Data resource file
+//
+// Data types:
+//   image_t   — a .png or .bmp image file  (e.g. image_t logo = "logo.png")
+//   raw_t     — include a raw binary file  (e.g. raw_t level = "level.bin")
+//   uint8_t   — 8-bit byte values
+//   int16_t / uint16_t — 16-bit values
+//   int24_t / uint24_t — 24-bit FX data addresses
+//   int32_t / uint32_t — 32-bit values
+//   string    — a quoted string constant  (e.g. string msg = "Hello!")
+//
+// Examples:
+//   image_t playerSprite = "assets/player.png"
+//   image_t tileSheet    = "assets/tiles.png"
+//
+//   uint8_t levelData[] = {
+//     1, 2, 3, 4, 5
+//   };
+//
+// Upload binary files (.png, .bin, etc.) using the Import button or
+// drag and drop. Reference them here by filename.
+//
+// See: https://github.com/MrBlinky/Arduboy-homemade-package
+
